@@ -1,0 +1,9 @@
+C:\Users\acer\source\repos\gr\bin\Debug\gr.exe.config
+C:\Users\acer\source\repos\gr\bin\Debug\gr.exe
+C:\Users\acer\source\repos\gr\bin\Debug\gr.pdb
+C:\Users\acer\source\repos\gr\obj\Debug\gr.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\gr\obj\Debug\gr.Form1.resources
+C:\Users\acer\source\repos\gr\obj\Debug\gr.Properties.Resources.resources
+C:\Users\acer\source\repos\gr\obj\Debug\gr.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\gr\obj\Debug\gr.exe
+C:\Users\acer\source\repos\gr\obj\Debug\gr.pdb
